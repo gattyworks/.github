@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/gw-linkedin-light.png" alt="GW | GATTYWORKS" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gattyworks/.github/main/profile/assets/gw-linkedin-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gattyworks/.github/main/profile/assets/gw-linkedin-light.png">
+    <img src="https://raw.githubusercontent.com/gattyworks/.github/main/profile/assets/gw-linkedin-light.png" alt="GW | GATTYWORKS" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Websites in 24 hours. MVPs in 48.</h1>
@@ -24,15 +28,22 @@
   <i>AI used where it earns its keep. Hand-built where it matters.</i>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Avg_reply-under_4h-00ADB5?style=for-the-badge" alt="Average reply under 4 hours">
+  <img src="https://img.shields.io/badge/Lighthouse-95+-00ADB5?style=for-the-badge" alt="Lighthouse 95 plus">
+  <img src="https://img.shields.io/badge/Written_reply-within_24h-0A0A0A?style=for-the-badge" alt="Written reply within 24 hours">
+  <img src="https://img.shields.io/badge/Team-senior_only-0A0A0A?style=for-the-badge" alt="Senior only team">
+</p>
+
 ---
 
-## The promise
+## 🛡️ The promise
 
 Every brief gets a written reply within 24 hours, guaranteed. Average reply lands in under 4 hours. Fixed scope, fixed date, signed up front. The same hands from brief to deploy. No black boxes, no ghosting.
 
 ---
 
-## What we build
+## 🚀 What we build
 
 <table>
   <tr>
@@ -63,13 +74,23 @@ Every brief gets a written reply within 24 hours, guaranteed. Average reply land
 
 ---
 
-## Selected work
+## 📦 Selected work
 
 Proof over promises. A few recent builds:
 
 - <b>Edible Factor</b>, a health-tech product.
 - <b>Fear of Wife</b>, a brand and lifestyle site.
 - <b><a href="https://abhiigatty.com">abhiigatty.com</a></b>, founder site.
+
+---
+
+## 🌐 Open source
+
+We share reusable tools, not just client work:
+
+- <b><a href="https://github.com/gattyworks/email-mcp-hub">email-mcp-hub</a></b>: connect email mailboxes to any agent over MCP.
+
+More in our pinned repositories.
 
 <p align="center">
   <a href="https://github.com/gattyworks"><img src="https://img.shields.io/badge/Pinned_repos-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pinned repositories on GitHub"></a>
@@ -78,19 +99,31 @@ Proof over promises. A few recent builds:
 
 ---
 
-## How it works
+## 🧭 How it works
 
 <p align="center">
-  <b>Brief</b> &nbsp;&rarr;&nbsp; <b>Quote</b> &nbsp;&rarr;&nbsp; <b>Ship</b>
+  <b>Brief</b> &nbsp;&rarr;&nbsp; <b>Scope</b> &nbsp;&rarr;&nbsp; <b>Ship</b>
 </p>
 
 <p align="center">
-  Tell us what you need. We scope it, quote it, and put a date on it. Then we build and deploy.
+  Tell us what you need. We scope it and put a date on it. Then we build and deploy.
 </p>
+
+<details>
+  <summary><b>How do we hit the clock?</b> (the short version)</summary>
+  <br>
+  We do not start from a blank page. Sprints run on hardened in-house foundations, one senior owner end to end, and an AI agent fleet running research, design review, and security and performance checks in parallel.
+  <ul>
+    <li><b>Foundations:</b> <code>webapp-base</code> and <code>backend-base</code> starters, battle-tested across builds.</li>
+    <li><b>Agent fleet:</b> research, design-review validation, security audits, performance probes, eval suites.</li>
+    <li><b>One owner:</b> the same senior hands from brief to deploy.</li>
+  </ul>
+  Less ceremony, more shipping.
+</details>
 
 ---
 
-## Tech we reach for
+## 🧰 Tech we reach for
 
 We pick tools for judgment, not novelty: the boring-reliable thing when it has to hold up, the fast thing when it has to ship this quarter.
 
@@ -139,7 +172,7 @@ We pick tools for judgment, not novelty: the boring-reliable thing when it has t
 <p align="center"><b>AI and Agents</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
@@ -159,7 +192,7 @@ We pick tools for judgment, not novelty: the boring-reliable thing when it has t
 
 ---
 
-## The team
+## 👥 The team
 
 <table>
   <tr>
@@ -182,13 +215,17 @@ We pick tools for judgment, not novelty: the boring-reliable thing when it has t
 
 ---
 
-## Other ways to work
+## 🧩 Other ways to work
 
 - <b>Fractional Build:</b> embedded design and engineering, 2-week blocks.
-- <b>Agency White-label:</b> we ship, you mark up, NDA on request.
+- <b>Agency White-label:</b> we ship under your brand, NDA on request.
 - <b>Discovery Call:</b> 20 minutes, no slides, no decks.
 
 ---
+
+<p align="center">
+  <b>Got a deadline that scares you? That is our favorite kind.</b>
+</p>
 
 <p align="center">
   <a href="https://gattyworks.com"><img src="https://img.shields.io/badge/Website-gattyworks.com-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
@@ -196,5 +233,13 @@ We pick tools for judgment, not novelty: the boring-reliable thing when it has t
 </p>
 
 <p align="center">
-  <sub>GattyWorks. Mangaluru and Bengaluru, India.</sub>
+  <a href="https://gattyworks.com"><b>See the work</b></a> &nbsp;&middot;&nbsp;
+  <a href="mailto:hello@gattyworks.com"><b>Start a brief</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/company/gattyworks-private-limited"><b>Connect on LinkedIn</b></a>
 </p>
+
+<p align="center">
+  <sub>GattyWorks. Senior-led, building from Mangaluru and Bengaluru, India.</sub>
+</p>
+
+<!-- Built in Mangaluru and Bengaluru. Brief, scope, ship. -->
