@@ -223,6 +223,37 @@ We pick tools for judgment, not novelty: the boring-reliable thing when it has t
 
 ---
 
+## 💬 Community
+
+Have a question, an idea, or want to follow along? Come say hello.
+
+<p align="center">
+  <a href="https://github.com/gattyworks/.github/discussions"><img src="https://img.shields.io/badge/Discussions-join_in-00ADB5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Discussions"></a>
+  <a href="https://github.com/gattyworks/.github/issues/new/choose"><img src="https://img.shields.io/badge/Issues-report_or_request-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Open an issue"></a>
+</p>
+
+- 💭 <b><a href="https://github.com/gattyworks/.github/discussions">GitHub Discussions</a></b>: ask questions, share ideas, start a conversation.
+- 🐛 <b><a href="https://github.com/gattyworks/.github/issues/new/choose">Issues</a></b>: report a bug or request a feature on our public projects.
+- 📨 <b><a href="mailto:hello@gattyworks.com">hello@gattyworks.com</a></b>: reach us directly. Written reply within 24 hours.
+- 📣 Follow along on <a href="https://www.linkedin.com/company/gattyworks-private-limited">LinkedIn</a>, <a href="https://x.com/gattyworks">X</a>, and <a href="https://instagram.com/gattyworks">Instagram</a>.
+
+---
+
+## 🤝 Contributing
+
+Every repository in the org inherits the same defaults, so getting involved feels the same wherever you land:
+
+<p align="center">
+  <a href="https://github.com/gattyworks/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-guide-00ADB5?style=for-the-badge" alt="Contributing guide"></a>
+  <a href="https://github.com/gattyworks/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Code_of_Conduct-Contributor_Covenant-0A0A0A?style=for-the-badge" alt="Code of Conduct"></a>
+  <a href="https://github.com/gattyworks/.github/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security-policy-0A0A0A?style=for-the-badge" alt="Security policy"></a>
+  <a href="https://github.com/gattyworks/.github/blob/main/SUPPORT.md"><img src="https://img.shields.io/badge/Support-get_help-0A0A0A?style=for-the-badge" alt="Support"></a>
+</p>
+
+Pull requests are welcome on our public projects. We work in short-lived branches and ship through review, never pushing straight to <code>main</code>.
+
+---
+
 <p align="center">
   <b>Got a deadline that scares you? That is our favorite kind.</b>
 </p>
