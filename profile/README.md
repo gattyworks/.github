@@ -37,6 +37,12 @@
 
 ---
 
+## 🌱 Builders, first
+
+We are, first and foremost, a community of builders. We work together to learn and to teach, so anyone can ship real products with AI-forward methodologies. We take on client work to stay sharp, then share what we learn. Build with us, not just through us.
+
+---
+
 ## 🛡️ The promise
 
 Every brief gets a written reply within 24 hours, guaranteed. Average reply lands in under 4 hours. Fixed scope, fixed date, signed up front. The same hands from brief to deploy. No black boxes, no ghosting.
