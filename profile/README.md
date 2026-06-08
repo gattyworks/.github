@@ -84,8 +84,8 @@ Every brief gets a written reply within 24 hours, guaranteed. Average reply land
 
 Proof over promises. A few recent builds:
 
-- <b>Edible Factor</b>, a health-tech product.
-- <b>Fear of Wife</b>, a brand and lifestyle site.
+- <b><a href="https://ediblefactor.com">Edible Factor</a></b>, a health-tech product.
+- <b><a href="https://fearofwife.com">Fear of Wife</a></b>, a brand and lifestyle site.
 - <b><a href="https://abhiigatty.com">abhiigatty.com</a></b>, founder site.
 
 ---
