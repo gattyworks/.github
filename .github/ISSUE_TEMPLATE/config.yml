@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Start a project with GattyWorks
+    url: https://gattyworks.com
+    about: Briefs and discovery calls. We reply in writing within 24 hours.
+  - name: Email us
+    url: mailto:hello@gattyworks.com
+    about: Anything that is not a bug report or feature request.
