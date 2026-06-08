@@ -15,9 +15,6 @@
 <p align="center">
   <a href="https://gattyworks.com"><img src="https://img.shields.io/badge/Website-gattyworks.com-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:hello@gattyworks.com"><img src="https://img.shields.io/badge/Email-hello@gattyworks.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/company/gattyworks-private-limited"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://x.com/gattyworks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://instagram.com/gattyworks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">
@@ -241,7 +238,6 @@ Have a question, an idea, or want to follow along? Come say hello.
 - 💭 <b><a href="https://github.com/gattyworks/.github/discussions">GitHub Discussions</a></b>: ask questions, share ideas, start a conversation.
 - 🐛 <b><a href="https://github.com/gattyworks/.github/issues/new/choose">Issues</a></b>: report a bug or request a feature on our public projects.
 - 📨 <b><a href="mailto:hello@gattyworks.com">hello@gattyworks.com</a></b>: reach us directly. Written reply within 24 hours.
-- 📣 Follow along on <a href="https://www.linkedin.com/company/gattyworks-private-limited">LinkedIn</a>, <a href="https://x.com/gattyworks">X</a>, and <a href="https://instagram.com/gattyworks">Instagram</a>.
 
 ---
 
@@ -260,6 +256,18 @@ Pull requests are welcome on our public projects. We work in short-lived branche
 
 ---
 
+## 📣 Connect with us
+
+Follow along, say hi, and see what we are building.
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/gattyworks-private-limited"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/gattyworks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/gattyworks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+---
+
 <p align="center">
   <b>Got a deadline that scares you? That is our favorite kind.</b>
 </p>
@@ -271,8 +279,7 @@ Pull requests are welcome on our public projects. We work in short-lived branche
 
 <p align="center">
   <a href="https://gattyworks.com"><b>See the work</b></a> &nbsp;&middot;&nbsp;
-  <a href="mailto:hello@gattyworks.com"><b>Start a brief</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/company/gattyworks-private-limited"><b>Connect on LinkedIn</b></a>
+  <a href="mailto:hello@gattyworks.com"><b>Start a brief</b></a>
 </p>
 
 <p align="center">
