@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gattyworks/.github/main/.github/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gattyworks/.github/main/.github/banner-light.svg">
+  <img alt="GattyWorks .github banner" src="https://raw.githubusercontent.com/gattyworks/.github/main/.github/banner-light.svg" width="100%">
+</picture>
+
 # .github
 
 This repository holds the **GattyWorks organization profile** and the **default community health files** that apply to every repository in the [gattyworks](https://github.com/gattyworks) org. Any repository can override a file by adding its own.
