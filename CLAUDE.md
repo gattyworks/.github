@@ -3,8 +3,10 @@
 ## Mascot & banner
 
 This repo has a pixel mascot banner at the top of the root `README.md`
-(mascot: **Homie**, a little house with a heart on the door), swapped
-light/dark via `.github/banner-*.svg`. See `DESIGN.md` for the rationale.
+(mascot: **Homie**, a little house with a heart on the door), shown as a
+single static `design/banner.svg` — project-themed, with the mascot as one
+element; a `design/banner.html` reference page sits next to it. See
+`DESIGN.md` for the rationale.
 Don't regenerate or redesign it without checking there first — it's part of
 a matched 12-repo set across the GattyWorks org, and a one-off restyle here
 would break that consistency. This is separate from `profile/README.md`,
