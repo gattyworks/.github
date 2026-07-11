@@ -19,10 +19,13 @@ regenerate or reshape this one.
 **Palette**: red roof (`#E0574F`), cream walls (`#F2E3C8`), heart accent
 (`#E85D75`).
 
-**Files**: `.github/banner-dark.svg` and `.github/banner-light.svg`, swapped
-automatically in the root `README.md` via `prefers-color-scheme`. Both are
-static (no animation) so they render identically wherever GitHub displays
-them.
+**Files**: `design/banner.svg` is the README banner. It is project-themed —
+the colors and the facts on it come from this repo itself, not from a shared
+org template — and the mascot is one element of it, not the whole banner.
+`design/banner.html` is a self-contained reference page showing the banner
+plus the theme tokens it was built from. Referenced from `README.md` by a
+plain relative `<img src>` (works for public repos too and keeps the
+reference portable). The old `.github/banner-*.svg` files are removed.
 
 **Scope note**: this banner is for the repo's own root `README.md` only. It
 is unrelated to [`profile/README.md`](profile/README.md), the org's public
