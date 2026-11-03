@@ -6,10 +6,10 @@
   </picture>
 </p>
 
-<h1 align="center">Websites in 24 hours. MVPs in 48.</h1>
+<h1 align="center">Global AI and software audit studio.</h1>
 
 <p align="center">
-  Bring us your AI app idea, your marketing site, or your weekend MVP. We ship by Monday.
+  Know what your software does, where the risks sit, and what to fix next. First findings in 48 hours, from $399.
 </p>
 
 <p align="center">
@@ -18,16 +18,16 @@
 </p>
 
 <p align="center">
-  A tight, senior-led build studio: designers, engineers, and AI agents with taste. No juniors learning on your time.
+  A tight, senior-led team of designers, engineers, and AI agents. We audit software and AI systems, and build websites, MVPs, and workflows.
 </p>
 
 <p align="center">
-  <i>AI used where it earns its keep. Hand-built where it matters.</i>
+  <i>Evidence behind the findings. Senior review where the risk matters.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Avg_reply-under_4h-00ADB5?style=for-the-badge" alt="Average reply under 4 hours">
-  <img src="https://img.shields.io/badge/Lighthouse-95+-00ADB5?style=for-the-badge" alt="Lighthouse 95 plus">
+  <img src="https://img.shields.io/badge/Surface_audit-48h-00ADB5?style=for-the-badge" alt="Surface audit in 48 hours">
+  <img src="https://img.shields.io/badge/Audits-from_%24399-00ADB5?style=for-the-badge" alt="Audits from $399">
   <img src="https://img.shields.io/badge/Written_reply-within_24h-0A0A0A?style=for-the-badge" alt="Written reply within 24 hours">
   <img src="https://img.shields.io/badge/Team-senior_only-0A0A0A?style=for-the-badge" alt="Senior only team">
 </p>
@@ -42,7 +42,38 @@ We are, first and foremost, a community of builders. We work together to learn a
 
 ## 🛡️ The promise
 
-Every brief gets a written reply within 24 hours, guaranteed. Average reply lands in under 4 hours. Fixed scope, fixed date, signed up front. The same hands from brief to deploy. No black boxes, no ghosting.
+Every brief gets a written reply within 24 hours. If we miss it, the website or audit fee on your first project is refunded 100%. We put the scope, price, access needs, and delivery date in writing before work starts.
+
+---
+
+## 🛡️ What we audit
+
+We review software, AI systems, data practices, vendor risk, and technology spend. The scope follows the decision you need to make: accept a delivery, renew a vendor, protect customer data, or plan the next fixes.
+
+<table>
+  <tr>
+    <th align="left">Surface Audit</th>
+    <th align="left">Deep Audit</th>
+    <th align="left">Full Audit</th>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      From $399. A focused 48-hour review of the product, vendor claims, ownership basics, performance, and discoverability.
+    </td>
+    <td align="left" valign="top">
+      From $999. Everything in Surface, plus security and recovery evidence, data flows, and external dependencies.
+    </td>
+    <td align="left" valign="top">
+      From $2,499. Everything in Deep, plus architecture, AI, governance, privacy readiness, vendor continuity, technology spend, and a re-audit of agreed fixes.
+    </td>
+  </tr>
+</table>
+
+You receive findings with evidence, severity, and a practical fix order. Your vendor, your team, or GattyWorks can use the report to address the risks.
+
+<p align="center">
+  <a href="https://gattyworks.com/services/software-audits"><b>See audit scope and pricing</b></a>
+</p>
 
 ---
 
@@ -109,7 +140,7 @@ More in our pinned repositories.
 </p>
 
 <p align="center">
-  Tell us what you need. We scope it and put a date on it. Then we build and deploy.
+  Tell us what you need checked or built. We agree on the scope and delivery date in writing. Then we deliver the audit findings or the working product.
 </p>
 
 <details>
@@ -269,7 +300,7 @@ Follow along, say hi, and see what we are building.
 ---
 
 <p align="center">
-  <b>Got a deadline that scares you? That is our favorite kind.</b>
+  <b>Need a clear view of your software, or help with the next build?</b>
 </p>
 
 <p align="center">
